@@ -67,5 +67,33 @@ O banco de dados é configurado através do script **bdoficina.sql**, que define
 <h1>Tela cadastro de produtos</h1>
 <img src="https://github.com/user-attachments/assets/b7446e44-101f-451c-9c01-bdeca48d08b6" width="500" height="260">
 
-<h1)
+<h1>Tela editar produto </h1>
+<img src="https://github.com/user-attachments/assets/130ba6ba-35c1-47da-950c-4f9eff1241eb" width="500" height="260">
+
+<h1>Tela veículos</h1>
+<img src="https://github.com/user-attachments/assets/f25fd193-3b9d-4c76-bac5-5b8facc6dfab" width="500" height="260">
+
+<h1>Tela cadastrar veículo</h1>
+<img src="https://github.com/user-attachments/assets/eb239a96-77cd-447d-82db-a5a2ff3f46f7" width="500" height="260">
+
+<h1>Tela editar veículo<h1>
+<img src="https://github.com/user-attachments/assets/9c609afe-c040-4bb1-893c-06a0149189b8" width="500" height="260">
+
+<h1>Tela clientes<h1>
+<img src="https://github.com/user-attachments/assets/81eba2e2-a654-4128-b62e-3c18366a1bf6" width="500" height="260">
+
+<h1>Tela cadastrar clientes<h1>
+<img src="https://github.com/user-attachments/assets/b2eed3c0-5958-4ffa-9659-3d38d92fcd0c" width="500" height="260">
+
+<h1>Tela editar cliente<h1>
+<img src="https://github.com/user-attachments/assets/5fe27a70-8248-48cd-8b2b-8c560182a19d" width="500" height="260">
+
+<h1>Tela serviço<h1>
+<img src="https://github.com/user-attachments/assets/ab40afde-f06e-4610-b111-2a38a3ccdff7" width="500" height="260">
+
+<h1>Tela serviço<h1>
+<img src="https://github.com/user-attachments/assets/ab40afde-f06e-4610-b111-2a38a3ccdff7" width="500" height="260">
+
+
+
 
