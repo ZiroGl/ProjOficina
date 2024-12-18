@@ -32,7 +32,6 @@ O banco de dados é configurado através do script **bdoficina.sql**, que define
 ## Principais Funcionalidades
 1. **Autenticação**:
    - Implementada nos arquivos `login.php` e `logout.php`.
-     <img src="https://github.com/user-attachments/assets/6eca01ea-3c69-4c30-b0e1-8165dcd7d267" width="500" height="260"/>
    - Gerencia acesso ao sistema com segurança.
 
 2. **Cadastro e Gerenciamento**:
@@ -55,4 +54,18 @@ O banco de dados é configurado através do script **bdoficina.sql**, que define
 - Gabriel Lucas G. : Criação do banco de dados e Crud de Produtoes e Estoque.
 - Henrique Fantinel : Criação do Crud de Clientes e Serviços.
 
----
+<h3>LAYOUTS DAS PÁGINAS</h3>
+<h1>Tela de login</h1>
+<img src="https://github.com/user-attachments/assets/3440c79f-d410-4a2c-9ba7-deef984feab1" width="500" height="260">
+
+<h1>Tela home</h1>
+<img src="https://github.com/user-attachments/assets/500300e2-8c0e-48d6-9401-da381000510f" width="500" height="260">
+
+<h1>Tela produtos</h1>
+<img src="https://github.com/user-attachments/assets/232f8e65-aa64-4b62-86f3-f9883ab3af4e" width="500" height="260">
+
+<h1>Tela cadastro de produtos</h1>
+<img src="https://github.com/user-attachments/assets/b7446e44-101f-451c-9c01-bdeca48d08b6" width="500" height="260">
+
+<h1)
+
