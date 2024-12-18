@@ -6,10 +6,10 @@ Este projeto é um sistema para gestão de oficinas, contendo funcionalidades pa
 ## Estrutura do Projeto
 
 ### Diretório Raiz
-- **index.php**: Página principal do sistema.
+- **dashboard.php**: Página principal do sistema.
 
-- **login.php**: Página de autenticação de usuários.
-- **bdoficina.sql**: Script do banco de dados.
+- **index.php**: Página de autenticação de usuários.
+- **db.sql**: Script do banco de dados.
 
 ### Diretório `cadastro`
 Arquivos dedicados ao cadastro de entidades no sistema:
@@ -91,9 +91,18 @@ O banco de dados é configurado através do script **bdoficina.sql**, que define
 <h1>Tela serviço<h1>
 <img src="https://github.com/user-attachments/assets/ab40afde-f06e-4610-b111-2a38a3ccdff7" width="500" height="260">
 
-<h1>Tela serviço<h1>
-<img src="https://github.com/user-attachments/assets/ab40afde-f06e-4610-b111-2a38a3ccdff7" width="500" height="260">
+<h1>Tela cadastrar serviço<h1>
+<img src="https://github.com/user-attachments/assets/59b25e94-f686-4f38-9b0a-e7dfe7c51979" width="500" height="260">
 
+<h1>Tela editar serviço<h1>
+<img src="https://github.com/user-attachments/assets/69c9488d-ff9e-4f0e-91a8-ee957292dd12" width="500" height="260">
 
+<h1>Tela estoque<h1>
+<img src="https://github.com/user-attachments/assets/6c281397-8577-4836-af28-5ab0b8febe52" width="500" height="260">
 
+<h1>Tela cadastrar estoque<h1>
+<img src="https://github.com/user-attachments/assets/ec661dd8-4551-4781-aad5-8ad2a36e3e15" width="500" height="260">
+
+<h1>Tela editar estoque<h1>
+<img src="https://github.com/user-attachments/assets/31b409bf-4b86-4128-bdc9-85fe94d5a102" width="500" height="260">
 
