@@ -7,6 +7,7 @@ Este projeto é um sistema para gestão de oficinas, contendo funcionalidades pa
 
 ### Diretório Raiz
 - **index.php**: Página principal do sistema.
+
 - **login.php**: Página de autenticação de usuários.
 - **bdoficina.sql**: Script do banco de dados.
 
@@ -31,6 +32,7 @@ O banco de dados é configurado através do script **bdoficina.sql**, que define
 ## Principais Funcionalidades
 1. **Autenticação**:
    - Implementada nos arquivos `login.php` e `logout.php`.
+     <img src="https://github.com/user-attachments/assets/6eca01ea-3c69-4c30-b0e1-8165dcd7d267" width="500" height="260"/>
    - Gerencia acesso ao sistema com segurança.
 
 2. **Cadastro e Gerenciamento**:
